@@ -11,7 +11,7 @@ const LandingPage = () => {
   return (
 
     <>
-      <div className="py-7 pl-7 pr-24 font-outfit bg-white">
+      <div className="py-7 pl-2 lg:pl-7 pr-0 lg:pr-24 font-outfit bg-white">
         <NavBar />
         <Main />
         <FirstSlide />
